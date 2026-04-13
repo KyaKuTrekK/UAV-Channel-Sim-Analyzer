@@ -1,0 +1,5 @@
+streamlit>=1.28
+matplotlib>=3.7
+numpy>=1.24
+openai>=1.0
+scikit-learn>=1.3
