@@ -11,7 +11,7 @@ from performance_metrics import PerformanceAnalyzer
 
 # ========== 中文字体配置（宋体） ==========
 current_dir = os.path.dirname(os.path.abspath(__file__))
-font_path = os.path.join(current_dir, 'fonts', 'NotoSerifSC-Regular.ttf')
+font_path = os.path.join(current_dir, 'fonts', 'NotoSerifSC[wght].ttf')
 
 if os.path.exists(font_path):
     from matplotlib import font_manager
